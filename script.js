@@ -23,9 +23,10 @@ document.querySelectorAll('.reveal, .stagger').forEach(el => observer.observe(el
 
 // ---------- TYPING ANIMATION ----------
 const phrases = [
-  'Network Engineer.',
+  'Telecommunications Engineer',
   'Web Developer.',
-  'Problem Solver.'
+  'AI & Cloud Enthusiast',
+  'Network Automation'
 ];
 
 const typedEl = document.getElementById('typed-text');
